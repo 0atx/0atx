@@ -2,8 +2,8 @@
 
 
  <a href="https://github.com/0atx">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0atx&show_icons=true&theme=onedark"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0atx&layout=compact&langs_count=8&theme=onedark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=0atx&show_icons=true&theme=onedark"/>
+  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0atx&layout=compact&langs_count=8&theme=onedark"/>
 </a>
 
 [![Solved.ac 
