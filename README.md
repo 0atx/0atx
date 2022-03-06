@@ -1,5 +1,5 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,2,2,4,5,5,9,14,16,21,22,23,25,28&height=300&section=header&text=YUNHA&fontSize=80&fontColor=ffffff&animation=twinkling" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,2,2,4,5,5,9,14,16,21,22,23,25,28&height=300&section=header&text=YUNHA&fontSize=70&fontAlignY=40&fontColor=ffffff&animation=twinkling" />
 
  <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=0atx&show_icons=true&theme=onedark"/>
