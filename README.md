@@ -1,11 +1,11 @@
 <div align=center>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,0,2,2,4,5,5,9,14,16,21,22,23,25,28&height=300&section=header&text=YUNHA&fontSize=80&fontColor=ffffff&animation=twinkling" />
 
- <a href="https://github.com/0atx">
+ <div>
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=0atx&show_icons=true&theme=onedark"/>
   &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=0atx&layout=compact&langs_count=8&theme=onedark"/>
-</a>
+</div>
 
 [![Solved.ac 
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=0at_x)](https://solved.ac/0at_x)
