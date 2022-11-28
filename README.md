@@ -1,11 +1,11 @@
 <div align="center">
   
- <img src="https://capsule-render.vercel.app/api?type=waving&color=20:D1B9E4,100:B5C5E8&height=300&section=header&text=Yunha%20is%20CUTE&fontSize=70&fontAlignY=40&fontColor=ffffff&animation=twinkling" />
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=20:D1B9E4,100:B5C5E8&height=250&section=header&text=Yunha%20is%20CUTE&fontSize=70&fontAlignY=40&fontColor=ffffff&animation=twinkling" />
  
 </div>
 <div align="center">
   
- <img align="right" src="https://github-readme-stats.vercel.app/api?username=0atx&show_icons=true&count_private=true&custom_title=Yunha's%20GitHub%20Stats&bg_color=0,B5C5E8,D1B9E4&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF"/>
+ <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=0atx&show_icons=true&count_private=true&custom_title=Yunha's%20GitHub%20Stats&bg_color=0,B5C5E8,D1B9E4&title_color=FFFFFF&icon_color=FFFFFF&text_color=FFFFFF"/>
   
   ### 🐣 Yunha Park 🐥 
   
